@@ -1,0 +1,151 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+}
+
+.main {
+  width: 100vw;
+  height: 100vh;
+  background-color: #1f1f20d9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.btn {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+}
+
+#hamburger {
+  display: none;
+}
+
+#hamburger+label {
+  display: block;
+  width: 5vw;
+  height: 5vh;
+  position: relative;
+  cursor: pointer;
+}
+
+#hamburger+label span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 5px;
+  border-radius: 30px;
+  background: #000;
+  transition: all 0.35s;
+}
+
+#hamburger+label span:nth-child(1) {
+  top: 0;
+}
+
+#hamburger+label span:nth-child(2) {
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#hamburger+label span:nth-child(3) {
+  bottom: 0;
+}
+
+#hamburger:checked+label {
+  z-index: 99;
+}
+
+.sidebar {
+  width: 30vw;
+  height: 100vh;
+  background: #363647d9;
+  position: fixed;
+  top: 0;
+  left: -100%;
+  z-index: 98;
+  transition: all 0.35s;
+}
+
+#hamburger:checked+label+div {
+  left: 0;
+}
+
+.nav_mobile {
+  position: absolute;
+  top: 10vh;
+  width: 100%;
+}
+
+.sidebar .nav_mobile li {
+  color: whitesmoke;
+  position: relative;
+  float: left;
+  width: 100%;
+  list-style-type: none;
+  font-size: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.sidebar a {
+  padding: 0;
+  text-decoration: none;
+  display: block;
+}
+
+.sidebar li a {
+  color: whitesmoke;
+  display: block;
+  font-weight: bold;
+  line-height: 40px;
+  margin: 0px;
+  padding: 0;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.4s;
+}
+
+h2{
+  text-align: center; 
+  position: relative; 
+  top: 75px;
+}
+
+h3{
+  text-align: center; 
+  position: relative; 
+  top: 80vh;
+}
+
+.title{
+  width: 20vw;
+  height: 10vh;
+  line-height: 10vh;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.chat{
+  position: relative;
+  top: 60vh;
+  width: 40vw;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+}
+
+#searchInput{
+  width: 35vw;
+  height: 10vh;
+  font-size: 1.5rem;
+}
