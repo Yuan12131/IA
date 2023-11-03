@@ -8,7 +8,7 @@ router.get("/", (req, res) => {
   res.sendFile(__dirname + "../public/index.html"); // 루트 경로 처리 로직
 });
 
-router.post("/data", (req, res) => {
+router.post("/send", (req, res) => {
 
   // http.get("/data", options, res => {
     let data = '';
@@ -24,4 +24,4 @@ router.post("/data", (req, res) => {
   // });
 });
 
-module.exports = { handleRootRequest: router.get("/"), handleDataRequest: router.post("/data") };
+module.exports = { handleRootRequest: router.get("/"), handleDataRequest: router.post("/send") };
