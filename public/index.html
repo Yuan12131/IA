@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CHAT GPY</title>
+</head>
+<body>
+  <div id="root">
+
+    <div class="logo"></div>
+
+    <div class="menuBtn">
+      <div class="menu">
+        <div class="new"></div>
+        <div class="recording"></div>
+        <div class="user"></div>
+      </div>
+    </div>
+
+    <div class="chat">
+      <form method="POST" action="/send">
+        <input type="text" name="message">
+        <button type="button" id="searchButton">send</button>
+      </form>
+    </div>
+
+  </div>
+</body>
+</html>
