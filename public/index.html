@@ -1,30 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>CHAT GPY</title>
+  <link rel="stylesheet" href="index.css" type="text/css">
 </head>
 <body>
   <div id="root">
 
-    <div class="logo"></div>
+    <div class="btn">
+      <input type="checkbox" id="hamburger" />
+      <label for="hamburger">
+        <span></span>
+        <span></span>
+        <span></span>
+      </label>
 
-    <div class="menuBtn">
-      <div class="menu">
-        <div class="new"></div>
-        <div class="recording"></div>
-        <div class="user"></div>
+      <div class="sidebar">
+        <h2><a href="index.html">new chat</a></h2>
+        <ul class="nav_mobile">
+          <li><a href="#"></a></li>
+          <li><a href="#"></a></li>
+          <li><a href="#"></a></li>
+          <li><a href="#"></a></li>
+        </ul>
+        <h3>LEE 🟢</h3>
       </div>
     </div>
 
-    <div class="chat">
-      <form method="POST" action="/send">
-        <input type="text" name="message">
-        <button type="button" id="searchButton">send</button>
-      </form>
+    <div class="main">
+
+      <div class="title">⚡️ GPY - 3.5</div>
+
+      <div class="chat">
+        <form method="POST" action="/send" id="searchForm">
+          <input type="text" name="message" id="searchInput">
+          <button type="button" id="searchButton">send</button>
+        </form>
+      </div>
+
     </div>
 
   </div>
+
 </body>
+
 </html>
