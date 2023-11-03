@@ -7,3 +7,7 @@ const port = 8080;
 
 // 정적 파일 요청 -> 미들웨어 함수
 app.use(express.static('public'));
+
+app.listen(port, function () {
+  console.log(`http://127.0.0.1:${port}`);
+});
