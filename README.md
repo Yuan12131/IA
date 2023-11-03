@@ -9,8 +9,6 @@ Front-End : javascript, HTML, CSS
 Data Format : JSON
 
 
-
-
 **[Architecture]**
 
 <img width="669" alt="스크린샷 2023-11-03 오전 11 53 36" src="https://github.com/KDT-IaaS-Class-One-Group/wev-application-ia-yuan/assets/141980240/add5a9b8-a8f7-44ab-83f0-b7b0c51b0a53">
@@ -19,17 +17,17 @@ Data Format : JSON
 **[Processing]**
 1. SERV
 
-   	1-1. Node.js 환경
+   	   1-1. Node.js 환경
 
-   	1-2. Express.js를 활용
+   	   1-2. Express.js를 활용
+         
+         1-3. 라우팅 핸들러
 
-      1-3. 라우팅 핸들러
+   	   1-4. Static File Read
 
-   	1-4. Static File Read
+   	   1-5. POST Method Data request
 
-   	1-5. POST Method Data request
-
-   	1-6. GET Method Data response
+   	   1-6. GET Method Data response
 
 
    
@@ -43,17 +41,11 @@ Data Format : JSON
 
    	2-2. Script function
 
-    	 2-2-1. 햄버거 메뉴 -> JSON format
+    	 2-2-1. JSON - header (hamburgerMenu, logo, inputPlaceholder)
+    	 2-2-2. JSON - mainContent (inputData, USER Info)
+    	 2-2-3. New Prompt Btn
+         2-2-4. input Data processing
 
-    	 2-2-2. New Prompt
-
-    	 2-2-3. USER Info
-
-     	2-2-4. Data input & processing & saving -> JSON format
-
-    	 2-2-5. Data 기록
-
-   
    	2-3. Style 요소 적용
 
      	2-3-1. JSON format
