@@ -1,0 +1,16 @@
+{
+  "mainContent": {
+    "inputRecords": [
+      {
+        "type": "user",
+        "message": "How does OpenAI work?",
+        "timestamp": "10:23 AM"
+      },
+      {
+        "type": "assistant",
+        "message": "OpenAI is a machine learning model...",
+        "timestamp": "10:24 AM"
+      }
+    ]
+  }
+}
