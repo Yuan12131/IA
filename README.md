@@ -36,7 +36,9 @@ Data Format : JSON
 3. FRONT-END
 
    	2-1. HTML 레이아웃
+
          2-1-1. 외부 스타일 시트 연결
+
          2-2-2. 외부 스크립트 연결
 
    	2-2. Script function
