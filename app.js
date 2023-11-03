@@ -10,7 +10,7 @@ app.use(express.static('public'));
 // 루트 경로로 접근했을 때 index.html 파일 전송
 app.get('/', handleRootRequest); // 라우팅 핸들러로 변경
 
-app.post('/data', handleDataRequest); // 라우팅 핸들러로 변경
+app.post('/send', handleDataRequest); // 라우팅 핸들러로 변경
 
 app.listen(port, function () {
   console.log(`http://127.0.0.1:${port}`);
