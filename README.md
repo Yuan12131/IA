@@ -23,17 +23,21 @@ Data Format : JSON
 
    	1-2. Express.js를 활용
 
-   	1-3. Static File Read
+      1-3. 라우팅 핸들러
 
-   	1-4. POST Method Data request
+   	1-4. Static File Read
 
-   	1-5. GET Method Data response
+   	1-5. POST Method Data request
+
+   	1-6. GET Method Data response
 
 
    
 3. FRONT-END
 
    	2-1. HTML 레이아웃
+         2-1-1. 외부 스타일 시트 연결
+         2-2-2. 외부 스크립트 연결
 
    	2-2. Script function
 
