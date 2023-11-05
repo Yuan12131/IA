@@ -65,7 +65,7 @@
 }
 
 .sidebar {
-  width: 30vw;
+  width: 25vw;
   height: 100vh;
   background: #363647d9;
   position: fixed;
@@ -148,4 +148,8 @@ h3{
   width: 35vw;
   height: 10vh;
   font-size: 1.5rem;
+}
+
+.newchat{
+  cursor: pointer;
 }
