@@ -2,7 +2,7 @@
 const searchForm = document.getElementById('searchForm');
 const searchButton = document.getElementById('searchButton');
 const searchInput = document.getElementById('searchInput');
-const resultsDiv = document.querySelector('li');
+// const resultsDiv = document.querySelector('li');
 
 searchButton.addEventListener('click', function () {
   data();
@@ -44,11 +44,25 @@ function displayResults(data) {
   if (data.userMessage) {
     // 사용자 메세지를 대화 창에 추가
     addMessageToConversation('user', data.userMessage);
+
+    // 사용자 메세지를 sidebar의 li 태그에 추가
+    addMessageToSidebar('user', data.userMessage);
   }
 
   if (data.aiMessage) {
     // AI 응답을 대화 창에 추가
     addMessageToConversation('assistant', data.aiMessage);
+  }
+}
+
+function addMessageToSidebar(type, message) {
+  const ul = document.querySelector('.nav_mobile'); // sidebar 요소를 선택합니다.
+
+  if (ul) {
+    const li = document.createElement('li'); // 새로운 li 엘리먼트를 생성합니다.
+    li.classList.add(type); // 'user' 클래스를 추가합니다.
+    li.textContent = message; // 메세지를 li 엘리먼트에 추가합니다.
+    ul.appendChild(li); // ul에 li 엘리먼트를 추가합니다.
   }
 }
 
