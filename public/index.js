@@ -89,11 +89,11 @@ function displayResults(data) {
 }
 
 function addMessageToSidebar(message) {
-  if (message) {
-    const li = document.createElement("li");
+  if (message && isFirstMessage) {
+    const li = document.createElement('li');
     li.textContent = message;
-    const ul = document.querySelector(".nav_mobile");
-    ul.appendChild(li);
+    sidebar.appendChild(li);
+    isFirstMessage = false; // 처음 메시지를 추가했으므로 더 이상 추가되지 않도록 설정
   }
 }
 
@@ -103,11 +103,13 @@ newChatButton.addEventListener("click", function () {
 });
 
 function clearMessages() {
-  const messageDivs = searchForm.querySelectorAll(".messageDiv"); // searchForm 내에서 messageDiv를 찾습니다
+  const messageDivs = document.querySelectorAll('.messageDiv');
 
   messageDivs.forEach((messageDiv) => {
-    searchForm.removeChild(messageDiv); // messageDiv를 제거합니다.
+    searchForm.removeChild(messageDiv);
   });
+
+  isFirstMessage = true; // 다음 채팅에서 첫 번째 메시지를 다시 추가할 수 있도록 설정
 }
 
 function startNewChat() {
