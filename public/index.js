@@ -27,3 +27,28 @@ function data() {
   }
 }
 
+
+// 대화창에 메세지를 추가하는 함수
+function addMessageToConversation(type, message) {
+  const messageDiv = document.createElement('div');
+  messageDiv.classList.add(type);
+  messageDiv.textContent = message;
+  messageDiv.style.width = "10vw";
+  messageDiv.style.height = "5vh";
+  messageDiv.style.lineHeight = "5vh";
+  messageDiv.style.backgroundColor = "white";
+  searchForm.appendChild(messageDiv);
+}
+
+function displayResults(data) {
+  if (data.userMessage) {
+    // 사용자 메세지를 대화 창에 추가
+    addMessageToConversation('user', data.userMessage);
+  }
+
+  if (data.aiMessage) {
+    // AI 응답을 대화 창에 추가
+    addMessageToConversation('assistant', data.aiMessage);
+  }
+}
+
