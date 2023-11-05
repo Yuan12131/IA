@@ -62,4 +62,11 @@ router.post("/send", (req, res) => {
   });
 });
 
+// 랜덤 AI 응답 생성 함수 (임시로 랜덤한 텍스트를 반환)
+function generateAIResponse() {
+  const responses = ["Hello!", "How can I help you?", "Nice to meet you!"];
+  const randomIndex = Math.floor(Math.random() * responses.length);
+  return responses[randomIndex];
+}
+
 module.exports = { handleRootRequest: router.get("/"), handleDataRequest: router.post("/send") };
