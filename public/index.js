@@ -2,7 +2,6 @@
 const searchForm = document.getElementById('searchForm');
 const searchButton = document.getElementById('searchButton');
 const searchInput = document.getElementById('searchInput');
-// const resultsDiv = document.querySelector('li');
 
 searchButton.addEventListener('click', function () {
   data();
@@ -32,12 +31,22 @@ function data() {
 function addMessageToConversation(type, message) {
   const messageDiv = document.createElement('div');
   messageDiv.classList.add(type);
+
+  if (type === 'user') {
+    messageDiv.style.float = 'left'; // USER 메세지를 좌측에 정렬
+  } else {
+    messageDiv.style.float = 'right'; // AI 응답을 우측에 정렬
+  }
+
   messageDiv.textContent = message;
-  messageDiv.style.width = "10vw";
+  messageDiv.style.backgroundColor = 'lightblue';
+  messageDiv.style.width = "15vw";
   messageDiv.style.height = "5vh";
   messageDiv.style.lineHeight = "5vh";
-  messageDiv.style.backgroundColor = "white";
-  searchForm.appendChild(messageDiv);
+  messageDiv.style.margin = "1vh";
+  
+  // 새로운 메세지가 searchInput 위에 쌓이게
+  searchForm.insertBefore(messageDiv, searchInput);
 }
 
 function displayResults(data) {
