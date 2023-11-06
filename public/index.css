@@ -8,6 +8,7 @@
   width: 100vw;
   height: 100vh;
   display: flex;
+  overflow: auto;
 }
 
 .main {
@@ -122,22 +123,22 @@
   transition: all 0.4s;
 }
 
-h2{
-  text-align: center; 
-  position: relative; 
+h2 {
+  text-align: center;
+  position: relative;
   top: 75px;
 }
 
-.user{
+.user {
   width: 25vw;
   height: 10vh;
-  text-align: center; 
-  position: relative; 
+  text-align: center;
+  position: relative;
   top: 80vh;
   font-size: 3rem;
 }
 
-.title{
+.title {
   width: 20vw;
   height: 10vh;
   line-height: 10vh;
@@ -145,27 +146,31 @@ h2{
   font-size: 2rem;
 }
 
-.chat{
+.chat {
   position: relative;
-  top: 60vh;
-  width: 45vw;
-  height: 10vh;
-  display: flex;
-  align-items: center;
+  top: 20vh;
+  width: 40vw;
+  height: 30vh;
+  overflow: auto;
 }
 
-#searchInput{
-  width: 35vw;
+#searchForm {
+  position: relative;
+  top: 40vh;
+}
+
+#searchInput {
+  width: 45vw;
   height: 10vh;
   font-size: 1.5rem;
 }
 
-.newchat{
+.newchat {
   cursor: pointer;
   color: white;
 }
 
-#searchButton{
-width: 5vw;
-height: 5vh;
+#searchButton {
+  width: 5vw;
+  height: 5vh;
 }
