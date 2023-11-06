@@ -10,6 +10,7 @@ let isFirstMessage = true;
 
 searchButton.addEventListener("click", function () {
   data();
+  jsonData();
 });
 
 function data() {
@@ -30,6 +31,45 @@ function data() {
       });
   }
 }
+
+// fetch를 사용하여 지정한 URL에서 JSON 데이터를 가져오는 함수 -> 비동기 처리
+async function jsonData(url) {
+  try {
+    const response = await fetch(url);
+    return await response.json();
+  } catch (error) {
+    console.error('Error:', error);
+    return null;
+  }
+}
+
+const dataURL = '/json-data'; // 첫 번째 URL
+const styleURL = '/json-style'; // 두 번째 URL
+
+// json-data에서 GET 요청을 통한 HTML 요소 업데이트
+jsonData(dataURL)
+  .then(data => {
+    if (data) {
+      document.querySelector(".title").innerHTML = data.header.logo;
+
+      const promptInputPlaceholder = data.header.promptInputPlaceholder;
+      searchInput.setAttribute('placeholder', promptInputPlaceholder);
+    } else {
+      console.log('Failed to fetch data');
+    }
+  });
+
+// json-style에서 GET 요청을 통한 HTML 요소 업데이트
+  // 
+  jsonData(styleURL)
+  .then(style => {
+    if (style) {
+      document.querySelector(".user").innerHTML = style.icons.logo + style.icons.userAvatar;
+    } else {
+      console.log('Failed to fetch style');
+    }
+  });
+
 
 searchButton.addEventListener("click", function () {
   sendMessage();
@@ -118,3 +158,29 @@ function clearMessages() {
 function startNewChat() {
   searchInput.value = ""; // 입력 창 초기화
 }
+
+// // JSON 파일의 URL (실제 서버 URL로 수정 필요)
+// const jsonFileURL = 'http://127.0.0.1:8080/json-data.json';
+
+// // GET 요청을 사용하여 JSON 데이터 가져오기
+// fetch(jsonFileURL)
+//   .then((response) => {
+//     if (response.ok) {
+//       return response.json();
+//     } else {
+//       throw new Error('JSON 데이터를 가져오는 데 실패했습니다.');
+//     }
+//   })
+//   .then((data) => {
+//     // JSON 데이터에서 정보 추출
+//     const logo = data.logo;
+//     const promptInputPlaceholder = data.promptInputPlaceholder;
+
+//     const logoIconElement = document.querySelector('.title');
+//     logoIconElement.textContent = logo;
+
+//     searchInput.setAttribute('placeholder', promptInputPlaceholder);
+//   })
+//   .catch((error) => {
+//     console.error('JSON 데이터 가져오기 오류:', error);
+//   });
