@@ -4,9 +4,36 @@ const fs = require("fs"); // fs 불러오기
 
 const router = express.Router();
 
+// JSON 파일 경로
+const jsonDataFilePath = 'data.json';
+const styleDataFilePath = 'style.json';
+
+
 
 router.get("/", (req, res) => {
   res.sendFile(__dirname + "../public/index.html"); // 루트 경로 처리 로직
+});
+
+router.get('/json-data', (req, res) => {
+  // data.json 파일 읽기
+  fs.readFile(jsonDataFilePath, (err, data) => {
+    if (err) {
+      res.status(500).send('Internal Server Error');
+    } else {
+      res.json(JSON.parse(data));
+    }
+  });
+});
+
+router.get('/json-style', (req, res) => {
+  // style.json 파일 읽기
+  fs.readFile(styleDataFilePath, (err, data) => {
+    if (err) {
+      res.status(500).send('Internal Server Error');
+    } else {
+      res.json(JSON.parse(data));
+    }
+  });
 });
 
 // POST 요청으로 메세지 전달
@@ -69,4 +96,4 @@ function generateAIResponse() {
   return responses[randomIndex];
 }
 
-module.exports = { handleRootRequest: router.get("/"), handleDataRequest: router.post("/send") };
+module.exports = { handleRootRequest: router.get("/"), handleDataRequest: router.post("/send"), handleJsonStyleRequest:router.get("/json-style"), handleJsonDataRequest:router.get("/json-data") };
