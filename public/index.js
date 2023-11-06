@@ -5,6 +5,9 @@ const searchInput = document.getElementById("searchInput");
 const sidebar = document.querySelector(".nav_mobile");
 const newChatButton = document.querySelector(".newchat");
 
+let isFirstMessage = true;
+
+
 searchButton.addEventListener("click", function () {
   data();
 });
@@ -43,7 +46,7 @@ function sendMessage() {
 
 function addMessageToSidebar(message) {
   if (message) {
-    const li = document.createElement("li");
+    let li = document.createElement("li");
     li.textContent = message;
     sidebar.appendChild(li);
   }
