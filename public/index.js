@@ -15,7 +15,7 @@ searchButton.addEventListener("click", function () {
 function data() {
   const message = searchInput.value;
 
-  if (message) {
+  if (typeof message === "string") {
     fetch("/send", {
       method: "POST",
       headers: {
