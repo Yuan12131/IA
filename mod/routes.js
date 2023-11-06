@@ -69,12 +69,12 @@ router.post("/send", (req, res) => {
       });
 
       /* 
-          업데이트된 데이터를 JSON 파일에 다시 쓰기
-          JavaScript 객체를 JSON 문자열로 변환하는 메서드인 JSON.stringify()를 사용
-          - jsonData: JSON으로 변환할 JavaScript 객체
-          - null : JSON 문자열을 들여쓰기 할 때 사용되는 공백 문자나 문자열
-          - 2 : JSON 문자열 내에서 들여쓰기를 표시할 때 사용할 공백 문자 수
-          */
+        업데이트된 데이터를 JSON 파일에 다시 쓰기
+        JavaScript 객체를 JSON 문자열로 변환하는 메서드인 JSON.stringify()를 사용
+        - jsonData: JSON으로 변환할 JavaScript 객체
+        - null : JSON 문자열을 들여쓰기 할 때 사용되는 공백 문자나 문자열
+        - 2 : JSON 문자열 내에서 들여쓰기를 표시할 때 사용할 공백 문자 수
+        */
       fs.writeFile("data.json", JSON.stringify(jsonData, null, 2), (err) => {
         if (err) {
           console.error("Error writing data.json:", err);
