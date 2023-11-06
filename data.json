@@ -6,7 +6,7 @@
       "Settings",
       "Logout"
     ],
-    "logo": "🌐 GPY - 3.5",
+    "logo": "⚡️ GPY - 3.5",
     "promptInputPlaceholder": "Enter your message here..."
   },
   "mainContent": {
@@ -1671,6 +1671,2481 @@
         "type": "assistant",
         "message": "How can I help you?",
         "timestamp": "오전 11:45:10"
+      },
+      {
+        "type": "user",
+        "message": "sdf",
+        "timestamp": "오후 12:21:49"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 12:21:49"
+      },
+      {
+        "type": "user",
+        "message": "ads",
+        "timestamp": "오후 12:50:55"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 12:50:55"
+      },
+      {
+        "type": "user",
+        "message": "ddfs",
+        "timestamp": "오후 12:51:21"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 12:51:21"
+      },
+      {
+        "type": "user",
+        "message": "sdf",
+        "timestamp": "오후 12:51:24"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 12:51:24"
+      },
+      {
+        "type": "user",
+        "timestamp": "오후 12:52:04"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 12:52:04"
+      },
+      {
+        "type": "user",
+        "message": "dsf",
+        "timestamp": "오후 12:52:06"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 12:52:06"
+      },
+      {
+        "type": "user",
+        "message": "ds",
+        "timestamp": "오후 12:54:18"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 12:54:18"
+      },
+      {
+        "type": "user",
+        "message": "sd",
+        "timestamp": "오후 12:54:26"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 12:54:26"
+      },
+      {
+        "type": "user",
+        "message": "sdc",
+        "timestamp": "오후 12:56:32"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 12:56:32"
+      },
+      {
+        "type": "user",
+        "message": "sad",
+        "timestamp": "오후 1:07:37"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 1:07:37"
+      },
+      {
+        "type": "user",
+        "message": "asd",
+        "timestamp": "오후 1:07:40"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 1:07:40"
+      },
+      {
+        "type": "user",
+        "message": "sad",
+        "timestamp": "오후 1:07:50"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 1:07:50"
+      },
+      {
+        "type": "user",
+        "message": "asd",
+        "timestamp": "오후 1:07:54"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 1:07:54"
+      },
+      {
+        "type": "user",
+        "message": "ca",
+        "timestamp": "오후 1:07:56"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 1:07:56"
+      },
+      {
+        "type": "user",
+        "message": "asd",
+        "timestamp": "오후 1:08:49"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 1:08:49"
+      },
+      {
+        "type": "user",
+        "message": "ㅊㅇㄴ",
+        "timestamp": "오후 1:09:51"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 1:09:51"
+      },
+      {
+        "type": "user",
+        "timestamp": "오후 2:25:43"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 2:25:43"
+      },
+      {
+        "type": "user",
+        "message": "af",
+        "timestamp": "오후 2:34:46"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 2:34:46"
+      },
+      {
+        "type": "user",
+        "message": "daf",
+        "timestamp": "오후 2:35:55"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 2:35:55"
+      },
+      {
+        "type": "user",
+        "message": "ㄴㄹㅁ",
+        "timestamp": "오후 2:36:38"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 2:36:38"
+      },
+      {
+        "type": "user",
+        "message": "ㅇㅁㄴ",
+        "timestamp": "오후 2:36:47"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 2:36:47"
+      },
+      {
+        "type": "user",
+        "message": "ㅇㅁㄹ",
+        "timestamp": "오후 2:39:56"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 2:39:56"
+      },
+      {
+        "type": "user",
+        "message": "ㅊㄴㅁ",
+        "timestamp": "오후 2:41:08"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 2:41:08"
+      },
+      {
+        "type": "user",
+        "message": "ㅊㄴ",
+        "timestamp": "오후 2:41:13"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 2:41:13"
+      },
+      {
+        "type": "user",
+        "message": "ㅁㅊ",
+        "timestamp": "오후 2:41:15"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 2:41:15"
+      },
+      {
+        "type": "user",
+        "timestamp": "오후 2:41:17"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 2:41:17"
+      },
+      {
+        "type": "user",
+        "message": "ㄴㅇㅁ",
+        "timestamp": "오후 2:42:40"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 2:42:40"
+      },
+      {
+        "type": "user",
+        "message": "ㅁㄴㅊ",
+        "timestamp": "오후 2:43:06"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 2:43:06"
+      },
+      {
+        "type": "user",
+        "message": "ㅁㄴㅇ",
+        "timestamp": "오후 2:44:06"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 2:44:06"
+      },
+      {
+        "type": "user",
+        "message": "avd",
+        "timestamp": "오후 2:45:18"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 2:45:18"
+      },
+      {
+        "type": "user",
+        "message": "asfd",
+        "timestamp": "오후 2:47:16"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 2:47:16"
+      },
+      {
+        "type": "user",
+        "message": "ㅁㅇㄹ",
+        "timestamp": "오후 2:48:55"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 2:48:55"
+      },
+      {
+        "type": "user",
+        "message": "ㅁㅍㄴ",
+        "timestamp": "오후 2:49:22"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 2:49:22"
+      },
+      {
+        "type": "user",
+        "message": "adf",
+        "timestamp": "오후 2:51:23"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 2:51:23"
+      },
+      {
+        "type": "user",
+        "message": "adf",
+        "timestamp": "오후 2:51:29"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 2:51:29"
+      },
+      {
+        "type": "user",
+        "message": "ad",
+        "timestamp": "오후 2:52:02"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 2:52:02"
+      },
+      {
+        "type": "user",
+        "message": "dw",
+        "timestamp": "오후 2:53:23"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 2:53:23"
+      },
+      {
+        "type": "user",
+        "message": "afs",
+        "timestamp": "오후 2:53:31"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 2:53:31"
+      },
+      {
+        "type": "user",
+        "message": "asf",
+        "timestamp": "오후 2:56:46"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 2:56:46"
+      },
+      {
+        "type": "user",
+        "message": "",
+        "timestamp": "오후 2:56:47"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 2:56:47"
+      },
+      {
+        "type": "user",
+        "message": "fqe",
+        "timestamp": "오후 2:57:50"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 2:57:50"
+      },
+      {
+        "type": "user",
+        "message": "adv",
+        "timestamp": "오후 2:58:34"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 2:58:34"
+      },
+      {
+        "type": "user",
+        "message": "ad",
+        "timestamp": "오후 2:58:37"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 2:58:37"
+      },
+      {
+        "type": "user",
+        "message": "ㅇㅁㄹ",
+        "timestamp": "오후 3:00:22"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:00:22"
+      },
+      {
+        "type": "user",
+        "message": "vas",
+        "timestamp": "오후 3:01:21"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:01:21"
+      },
+      {
+        "type": "user",
+        "message": "cas",
+        "timestamp": "오후 3:01:37"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:01:37"
+      },
+      {
+        "type": "user",
+        "message": "dvas",
+        "timestamp": "오후 3:13:02"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:13:02"
+      },
+      {
+        "type": "user",
+        "message": "as",
+        "timestamp": "오후 3:15:37"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:15:37"
+      },
+      {
+        "type": "user",
+        "message": "",
+        "timestamp": "오후 3:15:38"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:15:38"
+      },
+      {
+        "type": "user",
+        "message": "fas",
+        "timestamp": "오후 3:15:51"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:15:51"
+      },
+      {
+        "type": "user",
+        "message": "vas",
+        "timestamp": "오후 3:16:02"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:16:02"
+      },
+      {
+        "type": "user",
+        "message": "avd",
+        "timestamp": "오후 3:16:35"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:16:35"
+      },
+      {
+        "type": "user",
+        "message": "vad",
+        "timestamp": "오후 3:18:22"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:18:22"
+      },
+      {
+        "type": "user",
+        "message": "dvs",
+        "timestamp": "오후 3:19:26"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:19:26"
+      },
+      {
+        "type": "user",
+        "message": "adv",
+        "timestamp": "오후 3:19:53"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:19:53"
+      },
+      {
+        "type": "user",
+        "message": "adf",
+        "timestamp": "오후 3:20:01"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:20:01"
+      },
+      {
+        "type": "user",
+        "message": "da",
+        "timestamp": "오후 3:21:24"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:21:24"
+      },
+      {
+        "type": "user",
+        "message": "vad",
+        "timestamp": "오후 3:22:09"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:22:09"
+      },
+      {
+        "type": "user",
+        "message": "lkk",
+        "timestamp": "오후 3:22:46"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:22:46"
+      },
+      {
+        "type": "user",
+        "message": "kk",
+        "timestamp": "오후 3:22:58"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:22:58"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:23:08"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:23:08"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:23:12"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:23:12"
+      },
+      {
+        "type": "user",
+        "message": "adf",
+        "timestamp": "오후 3:24:00"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:24:00"
+      },
+      {
+        "type": "user",
+        "message": "adv",
+        "timestamp": "오후 3:24:04"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:24:04"
+      },
+      {
+        "type": "user",
+        "message": "adv",
+        "timestamp": "오후 3:24:07"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:24:07"
+      },
+      {
+        "type": "user",
+        "message": "vad",
+        "timestamp": "오후 3:25:57"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:25:57"
+      },
+      {
+        "type": "user",
+        "message": "dvs",
+        "timestamp": "오후 3:27:06"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:27:06"
+      },
+      {
+        "type": "user",
+        "message": "sfg",
+        "timestamp": "오후 3:27:17"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:27:17"
+      },
+      {
+        "type": "user",
+        "message": "fsa",
+        "timestamp": "오후 3:27:27"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:27:27"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:27:36"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:27:36"
+      },
+      {
+        "type": "user",
+        "message": "vds",
+        "timestamp": "오후 3:27:50"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:27:50"
+      },
+      {
+        "type": "user",
+        "message": "df",
+        "timestamp": "오후 3:28:16"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:28:16"
+      },
+      {
+        "type": "user",
+        "message": "adv",
+        "timestamp": "오후 3:28:19"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:28:19"
+      },
+      {
+        "type": "user",
+        "message": "adv",
+        "timestamp": "오후 3:28:20"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:28:20"
+      },
+      {
+        "type": "user",
+        "message": "adv",
+        "timestamp": "오후 3:28:22"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:28:22"
+      },
+      {
+        "type": "user",
+        "message": "adv",
+        "timestamp": "오후 3:28:23"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:28:23"
+      },
+      {
+        "type": "user",
+        "message": "adv",
+        "timestamp": "오후 3:28:25"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:28:25"
+      },
+      {
+        "type": "user",
+        "message": "adv",
+        "timestamp": "오후 3:28:26"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:28:26"
+      },
+      {
+        "type": "user",
+        "message": "adv",
+        "timestamp": "오후 3:28:28"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:28:28"
+      },
+      {
+        "type": "user",
+        "message": "vad",
+        "timestamp": "오후 3:28:30"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:28:30"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:28:32"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:28:32"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:29:21"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:29:21"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:29:31"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:29:31"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:29:33"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:29:33"
+      },
+      {
+        "type": "user",
+        "message": "dvs",
+        "timestamp": "오후 3:29:34"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:29:34"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:29:35"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:29:35"
+      },
+      {
+        "type": "user",
+        "message": "vds",
+        "timestamp": "오후 3:29:38"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:29:38"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:29:47"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:29:47"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:29:49"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:29:49"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:29:50"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:29:50"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:29:51"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:29:51"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:29:54"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:29:54"
+      },
+      {
+        "type": "user",
+        "message": "ewv",
+        "timestamp": "오후 3:29:55"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:29:55"
+      },
+      {
+        "type": "user",
+        "message": "ev",
+        "timestamp": "오후 3:30:02"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:30:02"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:30:43"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:30:43"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:30:45"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:30:45"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:30:59"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:30:59"
+      },
+      {
+        "type": "user",
+        "message": "sd ",
+        "timestamp": "오후 3:31:01"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:31:01"
+      },
+      {
+        "type": "user",
+        "message": "adv",
+        "timestamp": "오후 3:31:02"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:31:02"
+      },
+      {
+        "type": "user",
+        "message": "asc",
+        "timestamp": "오후 3:31:33"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:31:33"
+      },
+      {
+        "type": "user",
+        "message": "sva",
+        "timestamp": "오후 3:31:34"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:31:34"
+      },
+      {
+        "type": "user",
+        "message": "asv",
+        "timestamp": "오후 3:31:36"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:31:36"
+      },
+      {
+        "type": "user",
+        "message": "asv",
+        "timestamp": "오후 3:31:37"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:31:37"
+      },
+      {
+        "type": "user",
+        "message": "dsf",
+        "timestamp": "오후 3:31:57"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:31:57"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:31:58"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:31:58"
+      },
+      {
+        "type": "user",
+        "message": "sdb",
+        "timestamp": "오후 3:31:59"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:31:59"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:32:24"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:32:24"
+      },
+      {
+        "type": "user",
+        "message": "dvs",
+        "timestamp": "오후 3:32:43"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:32:43"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:32:44"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:32:44"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:32:45"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:32:45"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:32:46"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:32:46"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:33:13"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:33:13"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:33:14"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:33:14"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:33:15"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:33:15"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:33:16"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:33:16"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:33:18"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:33:18"
+      },
+      {
+        "type": "user",
+        "message": "avd",
+        "timestamp": "오후 3:33:29"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:33:29"
+      },
+      {
+        "type": "user",
+        "message": "v",
+        "timestamp": "오후 3:33:30"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:33:30"
+      },
+      {
+        "type": "user",
+        "message": "v",
+        "timestamp": "오후 3:33:31"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:33:31"
+      },
+      {
+        "type": "user",
+        "message": "v",
+        "timestamp": "오후 3:33:32"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:33:32"
+      },
+      {
+        "type": "user",
+        "message": "v",
+        "timestamp": "오후 3:33:33"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:33:33"
+      },
+      {
+        "type": "user",
+        "message": "v",
+        "timestamp": "오후 3:33:36"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:33:36"
+      },
+      {
+        "type": "user",
+        "message": "v",
+        "timestamp": "오후 3:33:37"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:33:37"
+      },
+      {
+        "type": "user",
+        "message": "v",
+        "timestamp": "오후 3:33:39"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:33:39"
+      },
+      {
+        "type": "user",
+        "message": "v",
+        "timestamp": "오후 3:33:41"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:33:41"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:34:50"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:34:50"
+      },
+      {
+        "type": "user",
+        "message": "dv",
+        "timestamp": "오후 3:34:51"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:34:51"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:34:53"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:34:53"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:34:54"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:34:54"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:34:55"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:34:55"
+      },
+      {
+        "type": "user",
+        "message": "dv",
+        "timestamp": "오후 3:34:56"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:34:56"
+      },
+      {
+        "type": "user",
+        "message": "dv",
+        "timestamp": "오후 3:34:57"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:34:57"
+      },
+      {
+        "type": "user",
+        "message": "asc",
+        "timestamp": "오후 3:35:39"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:35:39"
+      },
+      {
+        "type": "user",
+        "message": "asc",
+        "timestamp": "오후 3:35:40"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:35:40"
+      },
+      {
+        "type": "user",
+        "message": "asc",
+        "timestamp": "오후 3:35:41"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:35:41"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:37:48"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:37:48"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:37:49"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:37:49"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:37:50"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:37:50"
+      },
+      {
+        "type": "user",
+        "message": "dav",
+        "timestamp": "오후 3:38:14"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:38:14"
+      },
+      {
+        "type": "user",
+        "message": "adv",
+        "timestamp": "오후 3:38:15"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:38:15"
+      },
+      {
+        "type": "user",
+        "message": "dvs",
+        "timestamp": "오후 3:38:36"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:38:36"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:38:37"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:38:37"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:38:38"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:38:38"
+      },
+      {
+        "type": "user",
+        "message": "dvs",
+        "timestamp": "오후 3:39:01"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:39:01"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:39:02"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:39:02"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:39:04"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:39:04"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:39:05"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:39:05"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:39:57"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:39:57"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:39:58"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:39:58"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:39:59"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:39:59"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:40:23"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:40:23"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:40:25"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:40:25"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:40:26"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:40:26"
+      },
+      {
+        "type": "user",
+        "message": "v",
+        "timestamp": "오후 3:41:06"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:41:06"
+      },
+      {
+        "type": "user",
+        "message": "v",
+        "timestamp": "오후 3:41:07"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:41:07"
+      },
+      {
+        "type": "user",
+        "message": "",
+        "timestamp": "오후 3:41:08"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:41:08"
+      },
+      {
+        "type": "user",
+        "message": "v",
+        "timestamp": "오후 3:41:09"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:41:09"
+      },
+      {
+        "type": "user",
+        "message": "v",
+        "timestamp": "오후 3:41:12"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:41:12"
+      },
+      {
+        "type": "user",
+        "message": "v",
+        "timestamp": "오후 3:41:13"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:41:13"
+      },
+      {
+        "type": "user",
+        "message": "s",
+        "timestamp": "오후 3:41:15"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:41:15"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:42:23"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:42:23"
+      },
+      {
+        "type": "user",
+        "message": "sd",
+        "timestamp": "오후 3:42:24"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:42:24"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:42:25"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:42:25"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:42:27"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:42:27"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:43:04"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:43:04"
+      },
+      {
+        "type": "user",
+        "message": "asc",
+        "timestamp": "오후 3:43:05"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:43:05"
+      },
+      {
+        "type": "user",
+        "message": "av",
+        "timestamp": "오후 3:43:06"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:43:06"
+      },
+      {
+        "type": "user",
+        "message": "dvs",
+        "timestamp": "오후 3:43:42"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:43:42"
+      },
+      {
+        "type": "user",
+        "message": "dvs",
+        "timestamp": "오후 3:43:43"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:43:43"
+      },
+      {
+        "type": "user",
+        "message": "av",
+        "timestamp": "오후 3:43:44"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:43:44"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:44:21"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:44:21"
+      },
+      {
+        "type": "user",
+        "message": "svd",
+        "timestamp": "오후 3:44:23"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:44:23"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:44:35"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:44:35"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:44:37"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:44:37"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:44:38"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:44:38"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:44:39"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:44:39"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:44:40"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:44:40"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:44:41"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:44:41"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:44:42"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:44:42"
+      },
+      {
+        "type": "user",
+        "message": "dv",
+        "timestamp": "오후 3:44:43"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:44:43"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:45:00"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:45:00"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:45:01"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:45:01"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:45:03"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:45:03"
+      },
+      {
+        "type": "user",
+        "message": "v",
+        "timestamp": "오후 3:45:04"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:45:04"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:45:05"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:45:05"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:45:06"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:45:06"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:45:07"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:45:07"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:45:24"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:45:24"
+      },
+      {
+        "type": "user",
+        "message": "d",
+        "timestamp": "오후 3:45:25"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:45:25"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:45:34"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:45:34"
+      },
+      {
+        "type": "user",
+        "message": "",
+        "timestamp": "오후 3:45:34"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:45:34"
+      },
+      {
+        "type": "user",
+        "message": "",
+        "timestamp": "오후 3:45:35"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:45:35"
+      },
+      {
+        "type": "user",
+        "message": "d",
+        "timestamp": "오후 3:45:36"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:45:36"
+      },
+      {
+        "type": "user",
+        "message": "",
+        "timestamp": "오후 3:45:38"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:45:38"
+      },
+      {
+        "type": "user",
+        "message": "",
+        "timestamp": "오후 3:45:39"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:45:39"
+      },
+      {
+        "type": "user",
+        "message": "",
+        "timestamp": "오후 3:45:40"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:45:40"
+      },
+      {
+        "type": "user",
+        "message": "",
+        "timestamp": "오후 3:45:40"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:45:40"
+      },
+      {
+        "type": "user",
+        "message": "",
+        "timestamp": "오후 3:45:41"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:45:41"
+      },
+      {
+        "type": "user",
+        "message": "",
+        "timestamp": "오후 3:45:42"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:45:42"
+      },
+      {
+        "type": "user",
+        "message": "d",
+        "timestamp": "오후 3:45:43"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:45:43"
+      },
+      {
+        "type": "user",
+        "message": "dds",
+        "timestamp": "오후 3:45:45"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:45:45"
+      },
+      {
+        "type": "user",
+        "message": "sd",
+        "timestamp": "오후 3:45:46"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:45:46"
+      },
+      {
+        "type": "user",
+        "message": "sd",
+        "timestamp": "오후 3:45:47"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:45:47"
+      },
+      {
+        "type": "user",
+        "message": "sd",
+        "timestamp": "오후 3:45:48"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:45:48"
+      },
+      {
+        "type": "user",
+        "message": "sd",
+        "timestamp": "오후 3:45:49"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:45:49"
+      },
+      {
+        "type": "user",
+        "message": "sd",
+        "timestamp": "오후 3:45:51"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:45:51"
+      },
+      {
+        "type": "user",
+        "message": "ds",
+        "timestamp": "오후 3:46:13"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:46:13"
+      },
+      {
+        "type": "user",
+        "message": "sd",
+        "timestamp": "오후 3:46:14"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:46:14"
+      },
+      {
+        "type": "user",
+        "message": "sd",
+        "timestamp": "오후 3:46:15"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:46:15"
+      },
+      {
+        "type": "user",
+        "message": "ds",
+        "timestamp": "오후 3:46:51"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:46:51"
+      },
+      {
+        "type": "user",
+        "message": "sdf",
+        "timestamp": "오후 3:46:51"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:46:51"
+      },
+      {
+        "type": "user",
+        "message": "sdf",
+        "timestamp": "오후 3:46:52"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:46:52"
+      },
+      {
+        "type": "user",
+        "message": "fds",
+        "timestamp": "오후 3:46:53"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:46:53"
+      },
+      {
+        "type": "user",
+        "message": "dsf",
+        "timestamp": "오후 3:46:54"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:46:54"
+      },
+      {
+        "type": "user",
+        "message": "",
+        "timestamp": "오후 3:46:55"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:46:55"
+      },
+      {
+        "type": "user",
+        "message": "dsf",
+        "timestamp": "오후 3:46:56"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:46:56"
+      },
+      {
+        "type": "user",
+        "message": "df",
+        "timestamp": "오후 3:46:57"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:46:57"
+      },
+      {
+        "type": "user",
+        "message": "v",
+        "timestamp": "오후 3:46:58"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:46:58"
+      },
+      {
+        "type": "user",
+        "timestamp": "오후 3:47:53"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:47:53"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:47:55"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:47:55"
+      },
+      {
+        "type": "user",
+        "message": "",
+        "timestamp": "오후 3:47:56"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:47:56"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:47:59"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:47:59"
+      },
+      {
+        "type": "user",
+        "message": "svd",
+        "timestamp": "오후 3:51:33"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:51:33"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:51:38"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:51:38"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:52:40"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:52:40"
+      },
+      {
+        "type": "user",
+        "message": "ac",
+        "timestamp": "오후 3:53:05"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:53:05"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:53:45"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:53:45"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:53:47"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:53:47"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:53:50"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:53:50"
+      },
+      {
+        "type": "user",
+        "message": "xc ",
+        "timestamp": "오후 3:53:54"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:53:54"
+      },
+      {
+        "type": "user",
+        "message": "c x",
+        "timestamp": "오후 3:53:55"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:53:55"
+      },
+      {
+        "type": "user",
+        "message": "dvs",
+        "timestamp": "오후 3:54:57"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:54:57"
+      },
+      {
+        "type": "user",
+        "message": "sdv",
+        "timestamp": "오후 3:55:48"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:55:48"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:55:51"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:55:51"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:55:52"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:55:52"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:55:54"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:55:54"
+      },
+      {
+        "type": "user",
+        "message": "adc",
+        "timestamp": "오후 3:55:55"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:55:55"
+      },
+      {
+        "type": "user",
+        "message": "dv a",
+        "timestamp": "오후 3:55:56"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:55:56"
+      },
+      {
+        "type": "user",
+        "message": "da",
+        "timestamp": "오후 3:55:57"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:55:57"
+      },
+      {
+        "type": "user",
+        "timestamp": "오후 3:56:21"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:56:21"
+      },
+      {
+        "type": "user",
+        "message": "avs",
+        "timestamp": "오후 3:56:23"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:56:23"
+      },
+      {
+        "type": "user",
+        "message": "dav",
+        "timestamp": "오후 3:56:54"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:56:54"
+      },
+      {
+        "type": "user",
+        "message": "dsv",
+        "timestamp": "오후 3:56:59"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:56:59"
+      },
+      {
+        "type": "user",
+        "message": "ds ",
+        "timestamp": "오후 3:57:00"
+      },
+      {
+        "type": "assistant",
+        "message": "Nice to meet you!",
+        "timestamp": "오후 3:57:00"
+      },
+      {
+        "type": "user",
+        "message": "dvs",
+        "timestamp": "오후 3:57:01"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:57:01"
+      },
+      {
+        "type": "user",
+        "message": "sdv ds",
+        "timestamp": "오후 3:57:36"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:57:36"
+      },
+      {
+        "type": "user",
+        "message": "vsd",
+        "timestamp": "오후 3:59:26"
+      },
+      {
+        "type": "assistant",
+        "message": "How can I help you?",
+        "timestamp": "오후 3:59:26"
+      },
+      {
+        "type": "user",
+        "message": "sdv ",
+        "timestamp": "오후 3:59:27"
+      },
+      {
+        "type": "assistant",
+        "message": "Hello!",
+        "timestamp": "오후 3:59:27"
       }
     ]
   }
