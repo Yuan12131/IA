@@ -1,0 +1,16 @@
+{
+  "colors": {
+    "primary": "#FF5733",
+    "secondary": "#33FF57",
+    "background": "#F5F5F5",
+    "text": "#333333"
+  },
+  "fonts": {
+    "main": "Arial, sans-serif",
+    "alternate": "Georgia, serif"
+  },
+  "icons": {
+    "logo": "🌐",
+    "userAvatar": "👤"
+  }
+}
