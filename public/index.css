@@ -128,10 +128,13 @@ h2{
   top: 75px;
 }
 
-h3{
+.user{
+  width: 25vw;
+  height: 10vh;
   text-align: center; 
   position: relative; 
   top: 80vh;
+  font-size: 3rem;
 }
 
 .title{
@@ -159,6 +162,7 @@ h3{
 
 .newchat{
   cursor: pointer;
+  color: white;
 }
 
 #searchButton{
